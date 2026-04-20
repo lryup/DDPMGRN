@@ -27,10 +27,7 @@ conda create -n your_env_name python=3.8.0
 ```
 conda activate your_env_name
  ```
-  (4) Install the required packages:
- ```
-pip install -r requirements.txt# It is recommended to install only the missing packages
- ```
+
 
 # Data Preparation
 In our study, we trained our model using all data from [BEENLINE](https://bcb.cs.tufts.edu/DAZZLE/BEELINE.zip).
