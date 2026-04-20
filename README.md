@@ -4,7 +4,7 @@ DMGRN: Enhancing Diffusion Models for Gene Regulatory Network Inference
 
 # Architecture
 
-![DMGRN](images/DDPMGRN_arc.jpg)
+![DMGRN](images/image.png)
 
 # Dependencies
 - python >=3.8
